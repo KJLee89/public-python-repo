@@ -6,3 +6,4 @@
 - remove_elements
 - remove duplicates in sorted array
 - remove duplicates in sorted array 2
+- Majority elements
