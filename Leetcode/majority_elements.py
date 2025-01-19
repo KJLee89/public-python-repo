@@ -15,8 +15,6 @@ class Solution:
         return m
 
 
-
-
 # Test Case
 # nums = [3,2,3]
 
